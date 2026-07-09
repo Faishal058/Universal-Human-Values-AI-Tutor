@@ -1,5 +1,7 @@
 # 🤖 Universal Human Values (UHV) AI Tutor Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://universal-human-values-ai-tutor.streamlit.app/)
+
 An interactive, RAG-powered learning dashboard and AI academic assistant designed for the **PCCOE Multi-Disciplinary Minor in Universal Human Values** (Academic Regulations 2023). 
 
 This platform acts as an intelligent study buddy, helping students explore values, self-reflection, harmony (at the individual, family, society, and natural order levels), and professional ethics.
