@@ -2,9 +2,15 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://universal-human-values-ai-tutor.streamlit.app/)
 
-An interactive, RAG-powered learning dashboard and AI academic assistant designed for the **PCCOE Multi-Disciplinary Minor in Universal Human Values** (Academic Regulations 2023). 
+### 📖 What is this project?
 
-This platform acts as an intelligent study buddy, helping students explore values, self-reflection, harmony (at the individual, family, society, and natural order levels), and professional ethics.
+This project is an **AI Study Buddy and Tutor** for college students taking the **"Universal Human Values" (UHV)** course. 
+
+Instead of reading through long, dry PDF syllabus guides, you can use this dashboard to learn and study interactively:
+* 💬 **Ask Questions**: Type any question (e.g. *"What is Sukh and Suvidha?"* or *"Explain harmony in the family"*). The AI searches the official syllabus PDF in the background and writes a clear, easy-to-understand answer.
+* ✍️ **Take Quizzes**: Practice with 3-question multiple choice quizzes generated on the fly, get scored, and read encouraging explanations from your AI tutor.
+* 📚 **Browse the Syllabus**: View objectives, units, and learning outcomes for all 5 semesters in a clean curriculum navigator.
+* 📂 **Upload Your Own PDF**: Drag and drop your own study guides, lecture slides, or notebooks. The AI will instantly read them and start answering questions based on your files!
 
 ---
 
