@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.DS_Store
+node_modules/
+.idea/
+.vscode/
+*.log
+
+# Environment & Temp Files
+.env
+.deepeval/
+faiss_index_custom/
+uploaded_study_material.pdf

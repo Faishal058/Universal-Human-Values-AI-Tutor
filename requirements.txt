@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+sentence-transformers
+pymongo
+deepeval
+python-dotenv
+pypdf
+langchain-mongodb
